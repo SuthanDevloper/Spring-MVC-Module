@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.suthan.beans&apos; to &apos;com.suthan.command&apos;&#x0D;&#x0A;- Original project: &apos;app21_Tiles_Manupulation_Database&apos;&#x0D;&#x0A;- Original element: &apos;app21_Tiles_Manupulation_Database/src/com.suthan.beans&apos;&#x0D;&#x0A;- Renamed element: &apos;app21_Tiles_Manupulation_Database/src/com.suthan.command&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.suthan.beans&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.suthan.beans" name="com.suthan.command" qualified="false" references="true" stamp="1574003096419" textual="false" version="1.0"/>
+</session>

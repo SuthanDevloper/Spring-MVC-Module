@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.suthan.validator.UserValidator&apos; to &apos;com.suthan.validator&apos;&#x0D;&#x0A;- Original project: &apos;app9_Serverside_validaton&apos;&#x0D;&#x0A;- Original element: &apos;app9_Serverside_validaton/src/com.suthan.validator.UserValidator&apos;&#x0D;&#x0A;- Renamed element: &apos;app9_Serverside_validaton/src/com.suthan.validator&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.suthan.validator.UserValidator&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.suthan.validator.UserValidator" name="com.suthan.validator" qualified="false" references="true" stamp="1572376045563" textual="false" version="1.0"/>
+</session>

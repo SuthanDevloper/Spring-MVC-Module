@@ -1,0 +1,12 @@
+127.0.0.1 - - [25/Oct/2019:15:50:57 +0100] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [25/Oct/2019:15:50:58 +0100] "GET /app7_Abstarct_Form_Controller/index.jsp HTTP/1.1" 200 778
+0:0:0:0:0:0:0:1 - - [25/Oct/2019:15:51:23 +0100] "POST /reg HTTP/1.1" 404 1076
+127.0.0.1 - - [25/Oct/2019:15:58:39 +0100] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [25/Oct/2019:15:58:40 +0100] "GET /app7_Abstarct_Form_Controller/index.jsp HTTP/1.1" 200 777
+0:0:0:0:0:0:0:1 - - [25/Oct/2019:16:03:32 +0100] "POST /app7_Abstarct_Form_Controller/reg HTTP/1.1" 200 421
+0:0:0:0:0:0:0:1 - - [25/Oct/2019:16:17:55 +0100] "GET /app7_Abstarct_Form_Controller/index.jsp HTTP/1.1" 404 1046
+127.0.0.1 - - [25/Oct/2019:16:18:42 +0100] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [25/Oct/2019:16:18:43 +0100] "GET /app7_Abstarct_Form_Controller/index.jsp HTTP/1.1" 404 1046
+127.0.0.1 - - [25/Oct/2019:16:19:20 +0100] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [25/Oct/2019:16:19:22 +0100] "GET /app7_Abstarct_Form_Controller/index.jsp HTTP/1.1" 200 778
+0:0:0:0:0:0:0:1 - - [25/Oct/2019:16:19:30 +0100] "POST /app7_Abstarct_Form_Controller/reg1 HTTP/1.1" 404 1046

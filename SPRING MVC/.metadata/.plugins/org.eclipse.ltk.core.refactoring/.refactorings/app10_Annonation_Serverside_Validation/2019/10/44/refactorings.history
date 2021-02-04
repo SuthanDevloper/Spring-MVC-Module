@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;app10_Annonation_Serverside_Validation/WebContent/WEB-INF/registrationform.jsp&apos; to &apos;reg_form.jsp&apos;" description="Rename resource &apos;registrationform.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/registrationform.jsp" name="reg_form.jsp" stamp="1572471928940" updateReferences="true"/>
+</session>

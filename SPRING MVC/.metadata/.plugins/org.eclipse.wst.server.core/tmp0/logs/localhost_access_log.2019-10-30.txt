@@ -1,0 +1,14 @@
+127.0.0.1 - - [30/Oct/2019:21:39:55 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:21:39:57 +0000] "GET /app10_Annonation_Serverside_Validation/index.jsp HTTP/1.1" 404 1046
+127.0.0.1 - - [30/Oct/2019:22:00:25 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:22:00:27 +0000] "GET /app10_Annonation_Serverside_Validation/index.jsp HTTP/1.1" 200 1156
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:22:01:54 +0000] "POST /app10_Annonation_Serverside_Validation/reg HTTP/1.1" 500 5442
+127.0.0.1 - - [30/Oct/2019:22:03:10 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:22:03:11 +0000] "GET /app10_Annonation_Serverside_Validation/index.jsp HTTP/1.1" 200 1156
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:22:03:28 +0000] "POST /app10_Annonation_Serverside_Validation/reg HTTP/1.1" 500 5441
+127.0.0.1 - - [30/Oct/2019:22:04:32 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:22:04:32 +0000] "GET /app10_Annonation_Serverside_Validation/index.jsp HTTP/1.1" 200 1156
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:22:04:45 +0000] "POST /app10_Annonation_Serverside_Validation/reg HTTP/1.1" 200 550
+127.0.0.1 - - [30/Oct/2019:22:06:24 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:22:06:25 +0000] "GET /app10_Annonation_Serverside_Validation/index.jsp HTTP/1.1" 200 1267
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:22:06:46 +0000] "POST /app10_Annonation_Serverside_Validation/reg HTTP/1.1" 200 563

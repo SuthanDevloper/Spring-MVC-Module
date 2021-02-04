@@ -1,0 +1,17 @@
+127.0.0.1 - - [21/Nov/2019:20:47:40 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:20:47:42 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25838
+127.0.0.1 - - [21/Nov/2019:20:53:26 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:20:53:27 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25828
+127.0.0.1 - - [21/Nov/2019:20:54:36 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:20:54:37 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25828
+127.0.0.1 - - [21/Nov/2019:21:24:14 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:21:24:15 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25828
+127.0.0.1 - - [21/Nov/2019:21:42:18 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:21:42:19 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25828
+127.0.0.1 - - [21/Nov/2019:22:07:11 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:22:07:12 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25828
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:22:14:15 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25839
+127.0.0.1 - - [21/Nov/2019:22:19:41 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:22:19:42 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25829
+127.0.0.1 - - [21/Nov/2019:22:24:41 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:22:24:42 +0000] "GET /app21_Tiles_Manupulation_Database/index.jsp HTTP/1.1" 500 25829

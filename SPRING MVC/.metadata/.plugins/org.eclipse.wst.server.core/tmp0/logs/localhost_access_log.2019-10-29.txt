@@ -1,0 +1,14 @@
+127.0.0.1 - - [29/Oct/2019:18:24:28 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:18:24:30 +0000] "GET /app9_Serverside_validaton/ HTTP/1.1" 500 7987
+127.0.0.1 - - [29/Oct/2019:18:59:59 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:19:00:00 +0000] "GET /app9_Serverside_validaton/index.jsp HTTP/1.1" 500 7987
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:19:02:49 +0000] "GET /app9_Serverside_validaton/index.jsp HTTP/1.1" 500 7998
+127.0.0.1 - - [29/Oct/2019:19:08:01 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:19:08:03 +0000] "GET /app9_Serverside_validaton/index.jsp HTTP/1.1" 200 1189
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:19:08:06 +0000] "POST /app9_Serverside_validaton/reg HTTP/1.1" 200 1536
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:19:08:15 +0000] "POST /app9_Serverside_validaton/reg HTTP/1.1" 200 1342
+127.0.0.1 - - [29/Oct/2019:21:04:42 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:21:04:43 +0000] "GET /app9_Serverside_validaton/ HTTP/1.1" 200 1190
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:21:05:00 +0000] "POST /app9_Serverside_validaton/reg HTTP/1.1" 200 1424
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:21:05:26 +0000] "POST /app9_Serverside_validaton/reg HTTP/1.1" 200 1282
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:21:05:55 +0000] "POST /app9_Serverside_validaton/reg HTTP/1.1" 200 513

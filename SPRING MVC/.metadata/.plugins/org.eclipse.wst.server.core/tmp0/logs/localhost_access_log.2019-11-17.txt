@@ -1,0 +1,5 @@
+127.0.0.1 - - [17/Nov/2019:09:39:58 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [17/Nov/2019:09:40:00 +0000] "GET /app20_File_Donload/index.jsp HTTP/1.1" 200 508
+0:0:0:0:0:0:0:1 - - [17/Nov/2019:09:40:34 +0000] "POST /app20_File_Donload/download HTTP/1.1" 200 11028
+127.0.0.1 - - [17/Nov/2019:12:20:49 +0000] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [17/Nov/2019:12:20:49 +0000] "GET /app21_Tiles_Manupulation_Database/WEB-INF/layout.jsp HTTP/1.1" 404 1046

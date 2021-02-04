@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;app7_Abstarct_Form_Controller/WebContent/WEB-INF/resgistration.jsp&apos; to &apos;resgistrationform.jsp&apos;" description="Rename resource &apos;resgistration.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/resgistration.jsp" name="resgistrationform.jsp" stamp="1571952045924" updateReferences="true"/>
+</session>

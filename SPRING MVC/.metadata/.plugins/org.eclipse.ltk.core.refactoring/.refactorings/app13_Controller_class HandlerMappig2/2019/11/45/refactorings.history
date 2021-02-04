@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.suthan.controller.WshController&apos; to &apos;WishController&apos;&#x0D;&#x0A;- Original project: &apos;app13_Controller_class HandlerMappig2&apos;&#x0D;&#x0A;- Original element: &apos;com.suthan.controller.WshController&apos;&#x0D;&#x0A;- Renamed element: &apos;com.suthan.controller.WishController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;WshController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.suthan.controller{WshController.java[WshController" matchStrategy="1" name="WishController" qualified="false" references="true" similarDeclarations="false" stamp="1573073903203" textual="false" version="1.0"/>
+</session>
